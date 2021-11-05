@@ -1,0 +1,56 @@
+// varies directly
+// Format : x varies directly as y
+{F} varies_directly_find_k(float x, float y){
+        float k = x / y;
+        return (k);
+}
+
+// varies inversely
+// Format : x varies inversely as y
+{F} varies_directly_find_k(float x, float y){
+        float k = x * y;
+        return(k);
+}
+
+
+// variable varies double exp : p varies as 8 while 6 varies directly as 4
+// Format : A varies directly as B ; C varies directly as D [Type(0=unknown, 1=directly, 2=inversely) : A,B(AB must be numbers) : C,D]
+{F} varies_directly_as(type = A, B, C,D){
+        
+        if (type = 0){
+                type = type_check(A,B,C,D);
+        }
+
+        if (type = 1){
+                float k = A / B;
+                if (C == null){
+                        C = k*D;
+                        return(C);
+                }
+                else{
+                        D = C/K;
+                        return(D);
+                }
+        }
+        else if (type = 2){
+                float k = A*B;
+                if (C == null){
+                        C = k/D;
+                        return(C);
+                }
+                else{
+                        D = k/C;
+                        return(D);
+                }
+        }
+}
+
+// type chect
+{F} type_check(A,B,C,D){
+        if (A/B = C/D){
+                return ("k = " A/B);
+        }
+        else if (A*B = C*D){
+                return ("k = " A*B);
+        }
+}

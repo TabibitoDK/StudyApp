@@ -1,0 +1,3 @@
+soluble salt = nitrate ; sulphate ; chloride ; ammonium ; potassium ; sodium ; sodium carbonate ; ammonium carbonate ; potassium carbonate
+insoluble salt = lead(II) sulphate ; barium sulphate ; calcium sulphate ; mecury chloride ; lead(II) chloride ; silver chloride ; carbonate
+slightly soluble salt = lead(II) chloride ; lead(II) iodide

@@ -1,0 +1,28 @@
+Microorganisms = tiny units of life - too small to be seen naked eye ; exist everywhere in nature ; crucial in maintaining ecological balance
+Effective microorganisms = mix cultures of benificial natural-occuring organisms that can be applied as inoculants to increase microbial diversity of soil ecosystem
+enhance diversity of microorganisms = improves soil condition ; increase self-purification ability in water
+types of response = 2 types : ;tropism response ; nastic response ; respond to stimuli
+tropism response = response of certain part of plant[such as root/shoot] towards or away form stimuli ; Thigmotropism, Geotropism, Hydrotropism, Phototropism, Chemotropism
+Phototropism = response to light ; shoot show (+) phototropism bcs they grow towards light
+Chemotropism = growth movement of part of plant in response to chemical stimulus ; exp : growth of pollen tube towards ovule
+Thigmotropism = response towards touch ; tendrils exhibited (+) thigmotropism by coiling around objects for support
+Geotropism = response towards gravity ; shoot(-) geotropism ; root(+) geotropism
+Hydrotropism = plant response towards water ; roots (+) hydrotorpism(move towards water)
+Characteristics of tropism = permanent response and influenced by hormones ; slow and not apparent ; response direction is dependent on direction of stimulus ; (+) tropism : growth towards direction of stimulus ; (-) tropism : growth away from stimulus
+Nastic responses = non-directional response towards growth ; may not be involved in growth ; generally due to =changes in tugor ; generally reversible ; Photonasty, Seismonasty, THermonasty, Thigmonasty
+Photonasty = typically flower petals engage in photonasty as response of light
+Thigmonasty = plant response towards vibration ; seen in carnivorous plants[venus flytrap] ; exerted stimulus cause it clamp its leaves shut to trap insect
+Seismonasty = plant response that occurs due to mechanical stimulus[shock, touch, wind, raindrops]
+Nyctinasty = circadian rhythm that response towards onset of darkness ; leaf of legume plants sucha as river tamarind closes leaves at night and unfurls during daytime
+Thermonasty = response towards change in surrounding temp ; exp : tulips open when there is increase in temp and close when temperature drops
+Phytohormones = plant hormones ; substance that stimulate and coordinate responses in plant ; synthesised in certain plant organ, transported to target organ via phloem ; needed at low concentration ; auxin, gibberelin, cytokinin, abscisic acid, ethylene
+Auxin = functional in phototropism and geotropism ; stimulates development of apical dominance in shoots and roots ; stimulate growth and elongation in roots and shoots ; stimulates development of adventitious roots at end of stem cuttings ; stimulates cell division in cambium during secondary groeth ; inhibits abscission of fruits and young leaves ; inhibits growth of lateral buds
+Gibberellin = stimulates growth and elongation in stem cells ; stimulates development of leaves, flowers, friuts ; stimulates development and germination of seeds ; cause growth of flowers in dwarf plants ; inhibits development of roots
+Cytokinin = Stimulates division and elongation of root and stem cells when auxin is present ; stimulates seed germination ; inhibits development of apical dominance ; delay leaf senescene ; stimulates growth of lateral buds
+Abscisic acid = inhibits growth of plants ; stimulates abscission of mature friuts, leaves, flowers ; induces seed dormancy ; induces stomatal closing during drought season ; inhibits growth of buds and seed germination
+Ethylene = stimulates ripening of friuts ; stimulate senescene process in plants ; stimulates abcission of leaves and fruits
+......
+application of auxin = encourages growth in crops ; produce fruits without seedling  via parthnocarpy ; spromote root growth (asexual reproduction) on woody plant stems for horticulture plants ; used as weed killer ; induces dormancy in potatoes during storage or distribution ; promootes growth of low-lying and lush plants
+application og gibberelin = treats mutated dwarf plants to grow to normal hight ; used to produce larger grapes ; promotes germination of seed such as salad, oats and tobacco during low temperature and low light intensity ; promotes rapid elongation of flower stem
+application of cytokinin = tissue culture technique - promotes division and differentiation of cells ; used to delay leaf senescence in newly cut flowers ; used together with auxin to form plant organs such as roots and stems
+application of ethylene = used commercially to promote maturation of fruit quickly and evenly ; promotes simultaneously flowering in plants in field
